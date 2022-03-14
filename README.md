@@ -13,5 +13,5 @@ https://colab.research.google.com/drive/1bCClKJGGSaw55AoOaeVTs8qf97EPzXgH#scroll
 # archive
 folder containing all the image data
 
-# report.pdf
+# Report.pdf
 Final report 
