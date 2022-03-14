@@ -15,3 +15,4 @@ folder containing all the image data
 
 # Report.pdf
 Final report 
+https://github.com/Geethanjalivasu/know_your_food/blob/main/Report.pdf
