@@ -1,4 +1,5 @@
-To run the main model: run the model.ipynb
+## To run the main model: run the model.ipynb
+
 The entire data is available in the archive folder or can downloaded from kaggle using https://www.kaggle.com/moltean/fruits .
 
 # EDA.ipynb - This notebook contains all the initial analysis.
